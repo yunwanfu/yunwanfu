@@ -6,7 +6,7 @@ I'm a third-year undergraduate at Shanghai Jiao Tong University, working in [Sca
 
 上海交通大学三年级本科生，在 [ScaleLab](https://scalelab-sjtu.github.io/index.html) 师从穆尧教授，并与南加州大学 [PSI Lab](https://psi-lab.ai/) 王岳教授合作。现加入 RoboParty。关注具身智能、VLA 模型，以及机器人在真实世界中的学习与行动。
 
-[**Explore my homepage ↗**](https://yunwanfu.github.io/) · [X / Twitter](https://x.com/yunwanfu) · Email: asterrose [at] sjtu [dot] edu [dot] cn
+[**Explore my homepage ↗**](https://yunwanfu.github.io/) · [X / Twitter](https://x.com/yunwan_fu) · Email: asterrose [at] sjtu [dot] edu [dot] cn
 
 ---
 
